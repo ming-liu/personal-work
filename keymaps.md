@@ -7,7 +7,9 @@
 |open resource|cmd + shift + r|Navigate File|Open Resource|fuzzy-finder:toggle-file-finder|
 |last edit|ctrl + q|Last Edit Location|||
 |Extract Local Variable|cmd + shift + l|Variable|Extract Local Variable||
-|format|alt + shift + f|Reformat Code||TODO|
+|format|alt + shift + f|Reformat Code|||
+|quick fix|cmd + 1| Show Intention Actions|Quick Fix|TODO|
+|open implemention|Navigate->implementation|||TODO|
 
 
 caret
@@ -19,3 +21,7 @@ automatically close
 save action
 
 https://www.jetbrains.com/help/idea/2016.2/eclipse.html
+
+
+
+jump to implemention
